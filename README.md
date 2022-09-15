@@ -39,3 +39,7 @@ Yahoo Finance offers an excellent range of market data on stocks, bonds, currenc
 We used yfinance to collect the close price for a stock that user choose, for period of 5 minutes. After downloading the data, we print the necessary information to the user.
 
 More information you can find on yfinance's [documentations](https://python-yahoofinance.readthedocs.io/en/latest/api.html).
+
+
+https://user-images.githubusercontent.com/82917321/190438859-2d58ef17-fe19-4a46-a3d4-8d081517a9e8.mp4
+
