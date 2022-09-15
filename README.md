@@ -6,5 +6,7 @@ About the second action, the bot is capable to return the prices for a specific 
 
 
 
-https://user-images.githubusercontent.com/82917321/190392076-f0820f01-92b3-41b1-8140-9a9575c34fe1.mp4
+ <p align="center">
+ <img width="430" height="550" src="https://github.com/TheodoreGisis/MyTelegramBot/blob/main/Videos/Weather_Bot.mp4" >
+ </p>
 
