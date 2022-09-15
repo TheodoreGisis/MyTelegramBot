@@ -26,7 +26,7 @@ Open Telegram from your phone or your PC.
 To connect a bot to SendPulse you need a token. Copy your token value and find more information about connecting your bot to SendPulse in the last section of this article
 
 ## Weather 
-https://user-images.githubusercontent.com/82917321/190393017-5ec6785a-d381-4909-b07b-8961746fee8c.mp4
-
 
 For weather information, we used openweathermap API.More details here. 
+
+https://user-images.githubusercontent.com/82917321/190393017-5ec6785a-d381-4909-b07b-8961746fee8c.mp4
