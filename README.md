@@ -37,3 +37,5 @@ For stock market we use yfinance.Yfinance is a popular open source library devel
 Yahoo Finance offers an excellent range of market data on stocks, bonds, currencies and cryptocurrencies. It also offers market news, reports and analysis and additionally options and fundamentals data- setting it apart from some of it’s competitors.
 
 We used yfinance to collect the close price for a stock that user choose, for period of 5 minutes. After downloading the data, we print the necessary information to the user.
+
+More information you can find on yfinance's [documentations](https://python-yahoofinance.readthedocs.io/en/latest/api.html).
