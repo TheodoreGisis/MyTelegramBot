@@ -8,7 +8,7 @@ About the second action, the bot is capable to return the prices for a specific 
 ## Create Bot
 Open Telegram from your phone or your PC.
 
-Step 1. Enter @Botfather in the search tab and choose this bot.
+**Step 1.** Enter @Botfather in the search tab and choose this bot.
 
 
 ## Weather 
