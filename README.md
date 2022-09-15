@@ -29,4 +29,5 @@ To connect a bot to SendPulse you need a token. Copy your token value and find m
 
 For weather information, we used openweathermap API.More details here. 
 
+
 https://user-images.githubusercontent.com/82917321/190393017-5ec6785a-d381-4909-b07b-8961746fee8c.mp4
