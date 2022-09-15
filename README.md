@@ -32,3 +32,8 @@ For weather information, we used openweathermap API. This API allows you to get 
 https://user-images.githubusercontent.com/82917321/190393017-5ec6785a-d381-4909-b07b-8961746fee8c.mp4
 
 ## Stock
+
+For stock market we use yfinance.Yfinance is a popular open source library developed by Ran Aroussi as a means to access the financial data available on Yahoo Finance.
+Yahoo Finance offers an excellent range of market data on stocks, bonds, currencies and cryptocurrencies. It also offers market news, reports and analysis and additionally options and fundamentals data- setting it apart from some of it’s competitors.
+
+We used yfinance to collect the close price for a stock that user choose, for period of 5 minutes. After downloading the data, we print the necessary information to the user.
