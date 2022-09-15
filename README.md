@@ -30,3 +30,5 @@ To connect a bot to SendPulse you need a token. Copy your token value and find m
 For weather information, we used openweathermap API. This API allows you to get the full historical weather data archive by any location on the globe. For more information about openweathermap you can search [here](https://en.wikipedia.org/wiki/OpenWeatherMap). Details about the API you can find in [documentations](https://openweathermap.org/api). 
 
 https://user-images.githubusercontent.com/82917321/190393017-5ec6785a-d381-4909-b07b-8961746fee8c.mp4
+
+## Stock
