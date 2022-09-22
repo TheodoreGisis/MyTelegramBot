@@ -7,9 +7,9 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 
 #API Initialize
-API_TELEGRAM="5512765650:AAHAzLUXkm9ZUK47mM7Fajg8f2DE4crsmHk"
+API_TELEGRAM=""
 
-bot = Bot(token="5512765650:AAHAzLUXkm9ZUK47mM7Fajg8f2DE4crsmHk")
+bot = Bot(token="")
 dp = Dispatcher(bot)
 
 #Creating buttons 
